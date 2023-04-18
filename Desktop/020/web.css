@@ -1,0 +1,130 @@
+header{
+    border: 2px solid black;
+    width: 100%;
+    height: 95px;
+    display: inline-block;
+    background-color: rgb(243, 199, 87);
+}
+img{
+    display: inline;
+    width:90px;
+    height: 80px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    position: absolute;
+}
+header ul li{
+    padding-left: 20px;
+    position: relative;
+    margin-left: 20px;
+}
+.para{
+    list-style: none;
+    background-color: gray;
+}
+h1{
+    display: inline;
+    padding-left: 90px;
+    padding-top: 20px;
+}
+#li1{
+    display: inline-block;
+    padding-left: 900px;
+
+}
+#li2{
+    display: inline;
+
+}
+#li3{
+    display: inline;
+
+}
+#li4{
+    display: inline;
+}
+.main{
+    border: 2px solid black;
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    background-color: gray;
+}
+.pagelet{
+border: 2px solid black;
+width: 30%;
+height: 70vh;
+display: inline-block;
+position: relative;
+margin-top: 20px;
+margin-left: 20px;
+background-color: gray;
+}
+#div1{
+    border: 2px solid black;
+    display: inline-block;
+    width: 300px;
+    height: 130px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: rgb(248, 210, 113);
+}
+#div2{
+border: 2px solid black;
+display: inline-block;
+width: 300px;
+height: 130px;
+margin-left: 50px;
+margin-top: 10px;
+background-color: rgb(245, 226, 117);
+}
+#div3{
+    border: 2px solid black;
+    display: inline-block;
+    width: 300px;
+    height: 130px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: rgb(238, 219, 112);
+}
+.content{
+    border: 2px solid black;
+    display: inline;
+    width: 500px;
+    height: 70vh;
+    position: relative;
+}
+#diva{
+border: 2px solid black;
+display: inline-block;
+width: 620px;
+height: 230px;
+position: absolute;
+margin-left: 140px;
+margin-top: 20px;
+padding-left: 50px;
+font-size: 2em;
+background-color: rgb(243, 207, 116);
+}
+#divb{
+    border: 2px solid black;
+    position: absolute;
+    height: 230px;
+    width: 620px;
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 140px;
+    padding-left: 50px;
+    background-color: rgb(240, 203, 109);
+
+}
+h2{
+    border: 2px solid black;
+    width: 53%;
+    height: 25px;
+    display: inline-block;
+    padding-left: 600px;
+    position: relative;
+    background-color: gray;
+}
